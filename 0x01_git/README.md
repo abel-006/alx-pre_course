@@ -1,1 +1,1 @@
-my second readme
+echo my first readme
